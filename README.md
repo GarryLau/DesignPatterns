@@ -1,3 +1,4 @@
 # DesignPatterns
-1. 抽象工厂模式；
-2. 单例模式（单线程SingletonPattern/多线程MutliThreadSafeSingleton）；
+1. Abstract Factory；
+2. Singleton（单线程SingletonPattern/多线程MutliThreadSafeSingleton）；
+3. Factory Method；
