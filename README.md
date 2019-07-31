@@ -9,3 +9,4 @@ Creational patterns:
 Structural patterns:
 
 Behavioral patterns:
+1. Iterator;
