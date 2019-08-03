@@ -7,7 +7,7 @@ Creational patterns:
 5. Builder;
 
 Structural patterns:
-1. Adapter-类适配器使用多重继承对一个接口与另一个接口进行匹配/对象匹配器依赖于对象组合
+1. Adapter-类适配器使用多重继承对一个接口与另一个接口进行匹配/对象适配器依赖于对象组合
 
 Behavioral patterns:
 1. Iterator;
