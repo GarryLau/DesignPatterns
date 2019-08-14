@@ -1,7 +1,7 @@
 # DesignPatterns
 Creational patterns:
 1. Abstract Factory-object Creational;
-2. Singleton(单线程SingletonPattern/多线程MutliThreadSafeSingleton);
+2. Singleton-object Creational(单线程SingletonPattern/多线程MutliThreadSafeSingleton);
 3. Factory Method-object Creational;
 4. Prototype-object Creational;
 5. Builder-object Creational;
