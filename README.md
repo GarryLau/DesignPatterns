@@ -16,3 +16,5 @@ Behavioral patterns:
 2. Template Method-class Behavioral;
 3. State-object Behavioral;
 4. Strategy-object Behavioral;
+5. Chain of Responsibility-object Behavioral;
+6. Interpreter-class Behavioral;
