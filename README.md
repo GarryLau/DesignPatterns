@@ -18,3 +18,5 @@ Behavioral patterns:
 4. Strategy-object Behavioral;
 5. Chain of Responsibility-object Behavioral;
 6. Interpreter-class Behavioral;
+7. Observer-object Behavioral;
+8. Command-object Behavioral;
