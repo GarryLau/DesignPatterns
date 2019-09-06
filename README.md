@@ -10,6 +10,10 @@ Structural patterns:
 1. Adapter-class Structural类适配器使用多重继承对一个接口与另一个接口进行匹配/对象适配器依赖于对象组合;
 2. Bridge-object Structural;
 3. Composite-object Structural;
+4. Decorator-object Structural;
+5. Proxy-object Structural;
+
+
 
 Behavioral patterns:
 1. Iterator-object Behavioral;
