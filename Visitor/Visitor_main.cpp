@@ -7,9 +7,8 @@ int main() {
     VisitorI visi;
     VisitorII visii;
 
-    elea.accept(&visi);
-    elea.accept(&visii);
-
+    elea.accept(&visi);  // double dispatch
+    elea.accept(&visii);  // double dispatch
 
     return 0;
 }
