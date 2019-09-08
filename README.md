@@ -24,3 +24,4 @@ Behavioral patterns:
 6. Interpreter-class Behavioral;
 7. Observer-object Behavioral;
 8. Command-object Behavioral;
+9. Memento-object Behavioral;
