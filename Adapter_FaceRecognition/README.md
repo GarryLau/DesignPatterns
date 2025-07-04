@@ -2,7 +2,7 @@
 
 ## 概述
 
-本项目展示了如何使用Adapter设计模式来统一不同推理后端（MNN、RKNN、TensorRT）的接口，实现人脸识别推理的统一调用。
+本项目展示了如何使用Adapter设计模式来统一不同推理后端（MNN、RKNN、TensorRT等）的接口，实现人脸识别推理的统一调用。
 
 ## 设计模式说明
 
@@ -25,7 +25,7 @@
 ## 文件结构
 
 ```
-Adapter2/
+Adapter_FaceRecognition/
 ├── face_inference_engine.h          # 抽象接口（Target）
 ├── face_inference_engine.cpp        # 工厂方法实现
 ├── mnn_backend.h                    # MNN后端实现（Adaptee）
